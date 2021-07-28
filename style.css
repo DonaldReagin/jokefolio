@@ -1,0 +1,25 @@
+html {
+    border: solid black 12px;
+    background-color: yellowgreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    padding-left: 250px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.butts {
+    background-color: red;
+    border: dashed blue 3px;
+}
+
+#sad {
+    text-align: end;
+}
